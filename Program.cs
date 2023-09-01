@@ -10,7 +10,7 @@ Console.WriteLine("Введите элементы массива через п�
     {
         Console.WriteLine(str);
     }
-    
+   
 
 static string[] FilterStrings(string[] inputArray)
 {

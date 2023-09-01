@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\Final1Q\\FinalTest\\FinalTest.csproj": {}
+    "C:\\Users\\Nikolay\\Desktop\\GeekBrains\\Final1Q\\FinalTest\\FinalTest.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\Final1Q\\FinalTest\\FinalTest.csproj": {
+    "C:\\Users\\Nikolay\\Desktop\\GeekBrains\\Final1Q\\FinalTest\\FinalTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\Final1Q\\FinalTest\\FinalTest.csproj",
+        "projectUniqueName": "C:\\Users\\Nikolay\\Desktop\\GeekBrains\\Final1Q\\FinalTest\\FinalTest.csproj",
         "projectName": "FinalTest",
-        "projectPath": "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\Final1Q\\FinalTest\\FinalTest.csproj",
+        "projectPath": "C:\\Users\\Nikolay\\Desktop\\GeekBrains\\Final1Q\\FinalTest\\FinalTest.csproj",
         "packagesPath": "C:\\Users\\Nikolay\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\Final1Q\\FinalTest\\obj\\",
+        "outputPath": "C:\\Users\\Nikolay\\Desktop\\GeekBrains\\Final1Q\\FinalTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nikolay\\AppData\\Roaming\\NuGet\\NuGet.Config"

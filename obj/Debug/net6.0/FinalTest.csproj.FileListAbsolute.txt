@@ -1,0 +1,15 @@
+C:\Users\Nikolay\Desktop\GeekBrains\Final1Q\FinalTest\bin\Debug\net6.0\FinalTest.exe
+C:\Users\Nikolay\Desktop\GeekBrains\Final1Q\FinalTest\bin\Debug\net6.0\FinalTest.deps.json
+C:\Users\Nikolay\Desktop\GeekBrains\Final1Q\FinalTest\bin\Debug\net6.0\FinalTest.runtimeconfig.json
+C:\Users\Nikolay\Desktop\GeekBrains\Final1Q\FinalTest\bin\Debug\net6.0\FinalTest.dll
+C:\Users\Nikolay\Desktop\GeekBrains\Final1Q\FinalTest\bin\Debug\net6.0\FinalTest.pdb
+C:\Users\Nikolay\Desktop\GeekBrains\Final1Q\FinalTest\obj\Debug\net6.0\FinalTest.csproj.AssemblyReference.cache
+C:\Users\Nikolay\Desktop\GeekBrains\Final1Q\FinalTest\obj\Debug\net6.0\FinalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay\Desktop\GeekBrains\Final1Q\FinalTest\obj\Debug\net6.0\FinalTest.AssemblyInfoInputs.cache
+C:\Users\Nikolay\Desktop\GeekBrains\Final1Q\FinalTest\obj\Debug\net6.0\FinalTest.AssemblyInfo.cs
+C:\Users\Nikolay\Desktop\GeekBrains\Final1Q\FinalTest\obj\Debug\net6.0\FinalTest.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\GeekBrains\Final1Q\FinalTest\obj\Debug\net6.0\FinalTest.dll
+C:\Users\Nikolay\Desktop\GeekBrains\Final1Q\FinalTest\obj\Debug\net6.0\refint\FinalTest.dll
+C:\Users\Nikolay\Desktop\GeekBrains\Final1Q\FinalTest\obj\Debug\net6.0\FinalTest.pdb
+C:\Users\Nikolay\Desktop\GeekBrains\Final1Q\FinalTest\obj\Debug\net6.0\FinalTest.genruntimeconfig.cache
+C:\Users\Nikolay\Desktop\GeekBrains\Final1Q\FinalTest\obj\Debug\net6.0\ref\FinalTest.dll
